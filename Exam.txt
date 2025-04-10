@@ -1,0 +1,60 @@
+What is the output of print(2 + 3 * 4)?
+  14
+  20
+  12
+-------------------------------------------------------------------------------------------
+Which of the following is used to define a function in Python?
+  def
+  function
+  func
+-------------------------------------------------------------------------------------------
+What is the correct way to comment a line in Python?
+  # This is a comment
+  // This is a comment
+  /* This is a comment */
+-------------------------------------------------------------------------------------------
+What is the correct syntax to create a list in Python?
+  list = [1, 2, 3]
+  list = (1, 2, 3)
+  list = {1, 2, 3}
+-------------------------------------------------------------------------------------------
+Which of the following is not a valid data type in Python?
+  int
+  char
+  float
+-------------------------------------------------------------------------------------------
+What does the len() function do in Python?
+  Returns the length of an object
+  Converts a string to a list
+  Counts the number of arguments passed
+-------------------------------------------------------------------------------------------
+Which of the following is used to loop through a list in Python?
+  for
+  loop
+  while
+-------------------------------------------------------------------------------------------
+What will be the output of the following code: `print("Hello"[1])`?
+  H
+  e
+  o
+-------------------------------------------------------------------------------------------
+How do you handle exceptions in Python?
+  try...except
+  catch...finally
+  do...while
+-------------------------------------------------------------------------------------------
+Which of the following is used to import a module in Python?
+  import module_name
+  include module_name
+  require module_name
+-------------------------------------------------------------------------------------------
+ans: 14
+ans: def
+ans: # This is a comment
+ans: list = [1, 2, 3]
+ans: char
+ans: Returns the length of an object
+ans: for
+ans: e
+ans: try...except
+ans: import module_name
